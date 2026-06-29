@@ -1,10 +1,13 @@
 # Interfaith Socratic Cartography Workspace ✦ Comparative Theology & Epistemic Mapping
+<img width="1361" height="786" alt="Screenshot 2026-06-29 144820" src="https://github.com/user-attachments/assets/fce1ce39-5669-41b1-b536-d8266f38fb68" />
 
 The **Interfaith Socratic Cartography Workspace** is an immersive, multi-agent research platform designed to map comparative theological, moral, and philosophical positions across world religions, secular worldviews, and philosophical traditions.
 
 Rather than simulating standard debates or pushing for superficial consensus, this platform treats interfaith dialogue as an **epistemic excavation process**. It uncovers the logical structures, underlying assumptions, scriptural references, and conceptual crossovers that shape how different traditions formulate truth claims.
 
 The workspace visualises these intersections through an interactive **Epistemic Atlas**—a live knowledge graph displaying theological claims, scriptural provenance, observer dualities, and irreducible dogmatic or metaphysical disagreements.
+<img width="1352" height="792" alt="Screenshot 2026-06-29 144858" src="https://github.com/user-attachments/assets/5b63a4a7-4836-4ca0-9f8c-c22fb8125224" />
+<img width="1348" height="787" alt="Screenshot 2026-06-29 144843" src="https://github.com/user-attachments/assets/4525b701-906e-4036-afcb-9a3f14bdfc47" />
 
 ---
 
