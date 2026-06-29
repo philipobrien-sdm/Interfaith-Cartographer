@@ -1,144 +1,110 @@
-# Socratic Sieve v3 ✦ Epistemic Cartography & Theory Formation Workspace
+# Interfaith Socratic Cartography Workspace ✦ Comparative Theology & Epistemic Mapping
 
-Socratic Sieve v3 is an interactive **Epistemic Cartography & Theory Formation Workspace** designed to map the structure of knowledge formation, trace conceptual lineages, analyse observation dependencies, localise irreducible disagreements, and discover the deeper research programmes hidden within discourse.
+The **Interfaith Socratic Cartography Workspace** is an immersive, multi-agent research platform designed to map comparative theological, moral, and philosophical positions across world religions, secular worldviews, and philosophical traditions.
 
-Rather than acting as a multi-agent debate simulator, **Socratic Sieve v3** treats discussion as an epistemic excavation process. Dialogue becomes the mechanism through which assumptions are exposed, concepts evolve, observations are separated from abstractions, and unresolved tensions become visible.
+Rather than simulating standard debates or pushing for superficial consensus, this platform treats interfaith dialogue as an **epistemic excavation process**. It uncovers the logical structures, underlying assumptions, scriptural references, and conceptual crossovers that shape how different traditions formulate truth claims.
 
-The primary artifact is an interactive **Epistemic Atlas**—a structured map of the logical terrain explored during reasoning. Once the atlas has stabilised, the system performs a second-order analysis to identify the underlying scientific or philosophical problems that generated the discussion, producing candidate research programmes and doctoral-level thesis proposals.
-
-Socratic Sieve therefore shifts the central question away from:
-
-> **"Who is right?"**
-
-towards:
-
-- **What would have to be true for this position to be correct?**
-- **Which assumptions generated this disagreement?**
-- **How did the conceptual landscape evolve?**
-- **What deeper research question does this debate accidentally reveal?**
+The workspace visualises these intersections through an interactive **Epistemic Atlas**—a live knowledge graph displaying theological claims, scriptural provenance, observer dualities, and irreducible dogmatic or metaphysical disagreements.
 
 ---
 
 ## 🧭 Core Philosophy
 
-Socratic Sieve is founded on a simple premise:
+> **"Truth is one, though the wise speak of it by many names."**  
+> — Rig Veda (I.164.46)
 
-> **The purpose of discourse is not merely to establish truth, but to reveal the structure within which truth claims become possible.**
-
-The system therefore treats every discussion as a dynamic exploration of conceptual space. Its objective is not persuasion; its objective is cartography. The debate itself is transient; the evolving topology of knowledge is the product.
+The platform is designed around the premise that interfaith discourse is most productive when it is intellectually rigorous, scholarly, and objective. It seeks to answer:
+- Where do different traditions share **concept equivalents** (e.g., *Logos* in Christian theology, *Dharma* in Indian philosophy, *Tao* in Chinese thought) despite using radically different vocabularies?
+- How do different observers or traditions interpret the same moral or empirical reality (**Observer Duality**)?
+- What are the absolute scriptural boundaries or dogmatic constraints that lead to **irreducible disagreements**?
+- How does the conceptual terrain evolve as traditions challenge and respond to one another in Socratic inquiry?
 
 ---
 
 ## 🏛 Core Architectural Pillars
 
-### 1. No Concept Without Provenance
-Every concept introduced into discourse carries permanent provenance. Each concept records its originating agent, debate round, parent concepts, supporting observations, operational definitions, and evolution history. Concepts originate from one of four sources: User supplied, Emergent, Operational proxy, or Normative abstraction. Nothing appears without lineage.
+### 1. Scriptural & Traditional Lineage
+Every claim or concept mapped by the system carries explicit traditional ownership (**Tradition Identity**) and scriptural provenance (**Scriptural References**). It traces claims back to canonical texts (e.g., the Bible, the Qur'an, the Upanishads, the Buddhist Sutras, the Guru Granth Sahib) or founding secular manifestos.
 
-### 2. Constructs Are Not Observations
-To prevent category errors, every entity is explicitly classified:
-- Direct Observation
-- Composite Observable
-- Operational Proxy
-- Latent Construct
-- Pure Theoretical Construct
-- Normative Principle
+### 2. Concept Equivalents & Syncretism
+The platform maps connections where distinct traditions have formulated analogous concepts. The **Concept Equivalents** registry identifies overlap without flattening the unique metaphysical distinctions of each tradition.
 
-The workspace visually distinguishes measurable reality from explanatory models.
+### 3. Observer Duality & Disagreement Tensions
+To capture religious disagreements honestly, each claim features a dual-observer analysis (**Observer A vs. Observer B**). This allows the workspace to model exactly how two traditions interpret the same phenomenon or concept differently. Disagreements are classified into distinct categories:
+- **Ontological**: Differences in core metaphysical assumptions (e.g., personal God vs. non-dual ultimate reality).
+- **Epistemological**: Differences in sources of authority (revelation vs. reason vs. empirical observation).
+- **Normative**: Divergence in moral duties and ultimate purpose (*Soteriology* or *Dharma*).
+- **Hermeneutical**: Textual and scriptural interpretation differences.
 
-### 3. Concept Lifecycles
-Ideas are treated as evolving objects rather than static definitions:
-```
-Introduced ──► Tentative ──► Operational Candidate ──► Operationalised ──► Established Construct
-                                                                                │
-                                                                   ┌────────────┼────────────┐
-                                                                   ▼            ▼            ▼
-                                                                 Split        Merge       Collapse
-```
-Promotion requires independent convergence, survival through Socratic challenge, stable operational definition, and observer agreement. Collapse occurs when operationalisation fails or redundancy is discovered.
+### 4. Semantic Graph Compression
+To prevent claim and concept graphs from becoming redundant as dialogues progress, a **Semantic Graph Compression Engine** runs in the background. It merges equivalent concepts across traditions, prunes duplicated logical nodes, and repairs the dependency topology while preserving all genuine doctrinal tensions, scriptural citations, and historical contradictions.
 
-### 4. Claim Dependency Topology
-Claims exist as a Directed Acyclic Graph (DAG) rather than a flat conversation. Every claim answers the question: *What assumptions must already be true before this claim becomes meaningful?* The atlas exposes root assumptions, dependency chains, downstream consequences, and hidden conceptual bottlenecks.
-
-### 5. Epistemic Inspector & Tension Panel
-Every concept is continuously evaluated across independent dimensions (Definition completeness, Operational completeness, Observer agreement, Dependency robustness). Disagreements are localized precisely and classified as Definition, Measurement, Causal, Normative, Ontological, or Meta-epistemic.
-
-### 6. Semantic Graph Compression
-To stop claim and concept graphs from exploding as the debate progresses, a **Semantic Graph Compression Engine** runs at the beginning of each round (starting at round 2). It canonicalizes equivalent claims, merges duplicate nodes, prunes redundancies, and cleans up the dependencies array while preserving core contradictions, unique claims, and inferential dependencies.
+### 5. Multi-Tradition Socratic Agents
+Dynamic, AI-driven scholarly respondents representing diverse traditions (e.g., Christianity, Islam, Hinduism, Buddhism, Judaism, Sikhism, Secular Humanism) converse under a strict academic neutrality constraint. A Socratic-Respondent mediator systematically exposes their hidden assumptions and logical dependencies.
 
 ---
 
-## 🧠 Multi-Agent Architecture
+## 🛠 Features & Engineering Capabilities
 
-1. **Socrates v3 (The Eliminative Moderator)**: Systematically removes ambiguity and exposes hidden assumptions, boundaries, and philosophical tensions.
-2. **Epistemic Cartographer**: Maintains the evolving knowledge map, dependency tracking, lineage, and topology.
-3. **Model Builder**: Constructs operational models focused on measurable variables, simple experiments, and empirical starting points.
-4. **Normative Auditor**: Separates descriptive claims from value judgments and hidden prescriptions.
-5. **Synthesis Engine**: Consolidates the conversation into the canonical **Epistemic Atlas** (dependency graphs, construct audits, lineage, and maps).
-6. **PhD Thesis Builder (Synthesis Expert Agent)**: Analyzes the completed Epistemic Atlas to identify conceptual migrations, formulate testable hypotheses, and generate doctoral-level research programmes and thesis proposals.
-
----
-
-## 🛠 Features & Debugging Tools
-
-- **Immersive Cosmic Slate Theme**: Beautifully designed UI with a dark cosmic slate color palette, tailored typography (Space Grotesk & JetBrains Mono), and fluid transitions.
-- **Interactive D3/Recharts Graphing**: Render and explore complex claim dependency DAGs dynamically.
-- **Dual LLM Orchestration**: Run Socratic mediators or respondents using either cloud frontier models (via Gemini SDK) or local developer servers (via Ollama / LM Studio).
-- **Raw LLM Responses Log**: Access a real-time append-only server log (`llm_responses.log`) directly via the UI settings to verify raw completions, check prompt construction, and determine if an LLM response is being clipped or truncated.
+- **Cosmic Slate Theme**: A beautifully styled, eye-safe slate interface paired with elegant display typography (**Space Grotesk** for headings and **JetBrains Mono** for structural data).
+- **Interactive D3/Recharts Graphing**: Explore claim dependencies, lineage trees, and the conceptual geography of theological debates in real-time.
+- **Dual LLM Orchestration**: Toggle individual scholarly agents or the summarizer between powerful frontier models (via Gemini SDK) and locally hosted development models.
+- **Raw LLM Responses Log**: Access a real-time, server-side log file (`llm_responses.log`) directly from the UI settings. This allows researchers and developers to inspect raw completions, debug truncated responses, and verify prompt construction.
 
 ---
 
 ## 🚀 Installation & Setup
 
-Follow these steps to run Socratic Sieve v3 on your local machine or in a development environment.
+Follow these steps to run the Interfaith Socratic Cartography Workspace locally.
 
 ### Prerequisites
 
 - **Node.js** (v18.x or higher)
 - **npm** (v9.x or higher)
-- *(Optional)* **Ollama** or **LM Studio** for local LLM inference.
+- *(Optional)* **Ollama** or **LM Studio** for local offline inference.
 
 ### 1. Clone & Install Dependencies
 
 ```bash
-git clone https://github.com/your-username/socratic-sieve-v3.git
-cd socratic-sieve-v3
+git clone https://github.com/your-username/interfaith-cartography-workspace.git
+cd interfaith-cartography-workspace
 npm install
 ```
 
 ### 2. Configure Environment Variables
 
-Create a `.env` file in the root directory of the project:
+Create a `.env` file in the root directory:
 
 ```env
-# Google Gemini API Credentials
+# Google Gemini API Key
 GEMINI_API_KEY=your_gemini_api_key_here
 
-# Application Configuration
+# App configuration
 APP_URL=http://localhost:3000
 NODE_ENV=development
 ```
 
 ### 3. Run the Development Server
 
-Start the full-stack development environment (Express API + Vite Frontend):
+Start the full-stack development environment (Vite frontend with an Express proxy backend):
 
 ```bash
 npm run dev
 ```
 
-The application will be accessible at: **`http://localhost:3000`**
+The application will be running at: **`http://localhost:3000`**
 
 ### 4. Build for Production
 
-To compile the application into a production-ready package:
+To build the client-side SPA bundle and compile the Express backend into a single, optimized CJS server file:
 
 ```bash
 npm run build
 ```
 
-This compiles the client-side SPA bundle to `dist/` and compiles the backend server into a single, highly performant CommonJS file at `dist/server.cjs` using `esbuild`.
+This uses `esbuild` to compile `server.ts` into `dist/server.cjs` for high-performance and dependency-free Node deployments.
 
-To start the production server:
+Start the production server:
 
 ```bash
 npm run start
@@ -146,33 +112,24 @@ npm run start
 
 ---
 
-## 💻 Local LLM Integration
+## 💻 Local LLM Integration (Ollama / LM Studio)
 
-Socratic Sieve v3 supports running models fully locally!
+You can run the entire workspace offline or map theological topics using locally run open-source models!
 
-### Ollama Setup
-1. Download and install [Ollama](https://ollama.com/).
-2. Run your preferred model (e.g., `llama3`, `mistral`, `phi3`):
+### Ollama Configuration
+1. Install [Ollama](https://ollama.com/) and run your model:
    ```bash
    ollama run llama3
    ```
-3. In the Socratic Sieve Settings sidebar:
+2. In the App Settings panel:
    - Set **Local LLM Host URL** to `http://localhost:11434`
-   - Select your provider as **Local LLM** for any of the agents.
-   - Enter your model name (e.g., `llama3`).
+   - Set the agent's model provider to **Local LLM** and specify the model name (e.g., `llama3`).
 
-### LM Studio Setup
-1. Open [LM Studio](https://lmstudio.ai/) and download a model.
-2. Start the Local Inference Server (default port: `1234`).
-3. In the Socratic Sieve Settings sidebar:
+### LM Studio Configuration
+1. Launch [LM Studio](https://lmstudio.ai/) and start the local server on port `1234`.
+2. In the App Settings panel:
    - Set **Local LLM Host URL** to `http://localhost:1234`
-   - Select your model name.
-
----
-
-## 🌍 Vision
-
-Socratic Sieve is not intended to replace human reasoning; its purpose is to make reasoning visible. By mapping how concepts emerge, evolve, diverge, and stabilise, the workspace provides a living cartography of knowledge formation. Rather than producing answers, it produces landscapes. Rather than selecting winners, it exposes assumptions. Rather than ending conversations, it identifies the deeper questions that remain worth asking.
+   - Set your provider and model name.
 
 ---
 
