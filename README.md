@@ -43,8 +43,17 @@ To capture religious disagreements honestly, each claim features a dual-observer
 To prevent claim and concept graphs from becoming redundant as dialogues progress, a **Semantic Graph Compression Engine** runs in the background. It merges equivalent concepts across traditions, prunes duplicated logical nodes, and repairs the dependency topology while preserving all genuine doctrinal tensions, scriptural citations, and historical contradictions.
 
 ### 5. Multi-Tradition Socratic Agents
-Dynamic, AI-driven scholarly respondents representing diverse traditions (e.g., Christianity, Islam, Hinduism, Buddhism, Judaism, Sikhism, Secular Humanism) converse under a strict academic neutrality constraint. A Socratic-Respondent mediator systematically exposes their hidden assumptions and logical dependencies.
+Dynamic, AI-driven scholarly respondents representing diverse traditions (e.g., Christianity, Islam, Hinduism, Buddhism, Judaism, Sikhism, Secular Humanism) converse under a strict academic neutrality constraint. A Socratic-Respondent mediator systematically exposes their hidden assumptions and logical dependencies.<img width="366" height="800" alt="Screenshot 2026-06-29 155525" src="https://github.com/user-attachments/assets/3ec91a40-d33e-4f10-a058-f933882e8e4e" />
 
+
+### 6. Supporting Agents
+
+- **Epistemic field reporter**: Agent whose purpose is to prepare topic agnostic, unbiased reports on the outstanding field of comcepts and claims.
+- **Synthesis reporter**: agen whose role is to synthesise a report at the end of the debate, summing up the discussion and the concepts/claims raised as well as pointing to future questions for discussion.
+<img width="762" height="622" alt="Screenshot 2026-06-29 155434" src="https://github.com/user-attachments/assets/cf724e84-6d11-44e1-8362-b6eb923b2034" />
+<img width="674" height="629" alt="Screenshot 2026-06-29 155254" src="https://github.com/user-attachments/assets/70475578-06ab-49da-abdf-cbf1af596d9d" />
+
+  
 ---
 
 ## 🛠 Features & Engineering Capabilities
