@@ -1,0 +1,8 @@
+{
+  "name": "Theo debate",
+  "description": "An Interfaith Epistemic Cartography Platform. A multi-agent comparative theological explorer mapping shared beliefs, scriptural foundations, doctrinal assumptions, interpretive traditions, and unresolved divergences neutrally under Socratic guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
