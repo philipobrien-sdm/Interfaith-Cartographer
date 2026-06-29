@@ -43,7 +43,8 @@ To capture religious disagreements honestly, each claim features a dual-observer
 To prevent claim and concept graphs from becoming redundant as dialogues progress, a **Semantic Graph Compression Engine** runs in the background. It merges equivalent concepts across traditions, prunes duplicated logical nodes, and repairs the dependency topology while preserving all genuine doctrinal tensions, scriptural citations, and historical contradictions.
 
 ### 5. Multi-Tradition Socratic Agents
-Dynamic, AI-driven scholarly respondents representing diverse traditions (e.g., Christianity, Islam, Hinduism, Buddhism, Judaism, Sikhism, Secular Humanism) converse under a strict academic neutrality constraint. A Socratic-Respondent mediator systematically exposes their hidden assumptions and logical dependencies.<img width="366" height="800" alt="Screenshot 2026-06-29 155525" src="https://github.com/user-attachments/assets/3ec91a40-d33e-4f10-a058-f933882e8e4e" />
+Dynamic, AI-driven scholarly respondents representing diverse traditions (e.g., Christianity, Islam, Hinduism, Buddhism, Judaism, Sikhism, Secular Humanism) converse under a strict academic neutrality constraint. A Socratic-Respondent mediator systematically exposes their hidden assumptions and logical dependencies.
+<img width="366" height="800" alt="Screenshot 2026-06-29 155525" src="https://github.com/user-attachments/assets/3ec91a40-d33e-4f10-a058-f933882e8e4e" />
 
 ### 6. Supporting Agents
 
