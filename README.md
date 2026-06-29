@@ -45,7 +45,6 @@ To prevent claim and concept graphs from becoming redundant as dialogues progres
 ### 5. Multi-Tradition Socratic Agents
 Dynamic, AI-driven scholarly respondents representing diverse traditions (e.g., Christianity, Islam, Hinduism, Buddhism, Judaism, Sikhism, Secular Humanism) converse under a strict academic neutrality constraint. A Socratic-Respondent mediator systematically exposes their hidden assumptions and logical dependencies.<img width="366" height="800" alt="Screenshot 2026-06-29 155525" src="https://github.com/user-attachments/assets/3ec91a40-d33e-4f10-a058-f933882e8e4e" />
 
-
 ### 6. Supporting Agents
 
 - **Epistemic field reporter**: Agent whose purpose is to prepare topic agnostic, unbiased reports on the outstanding field of comcepts and claims.
